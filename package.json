@@ -1,0 +1,13 @@
+{
+  "name": "tradeux",
+  "version": "0.0.1",
+  "description": "Basic User Experience model for trade application.",
+  "main": "index.js",
+  "repository": "tradeux",
+  "author": "Nirmal Limbu",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
